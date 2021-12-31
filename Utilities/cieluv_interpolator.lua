@@ -1,4 +1,4 @@
---// from https://devforum.roblox.com/t/cieluv-interpolator/27100
+--from https://devforum.roblox.com/t/cieluv-interpolator/27100 --
 
 local CIELUV = {} do
 
